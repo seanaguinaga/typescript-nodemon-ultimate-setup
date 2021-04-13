@@ -5,3 +5,5 @@ function greet(name: string): void {
 const readerName = "Medium Reader";
 
 greet(readerName);
+
+console.log("hello");
